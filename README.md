@@ -1,6 +1,6 @@
 # Toys
 
-This is where I put my small projects that aren't super useful. Basically, I put things that prove to myself that I can program here.
+Is a collection of my small projects that aren't super useful. Code sprints mostly.
 
 ## calculator.html
 
